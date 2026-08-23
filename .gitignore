@@ -1,0 +1,24 @@
+# Frontend
+frontend/
+
+# Environment files
+.env
+**/.env
+
+# Maven build files
+**/target/
+
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
