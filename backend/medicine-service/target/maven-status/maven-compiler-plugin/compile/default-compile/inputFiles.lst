@@ -1,0 +1,15 @@
+C:\Users\prath\Downloads\HealthVerse-AI\backend\medicine-service\src\main\java\com\healthverse\medicine\config\JwtAuthenticationFilter.java
+C:\Users\prath\Downloads\HealthVerse-AI\backend\medicine-service\src\main\java\com\healthverse\medicine\config\SecurityConfig.java
+C:\Users\prath\Downloads\HealthVerse-AI\backend\medicine-service\src\main\java\com\healthverse\medicine\controller\MedicineController.java
+C:\Users\prath\Downloads\HealthVerse-AI\backend\medicine-service\src\main\java\com\healthverse\medicine\dto\ErrorResponse.java
+C:\Users\prath\Downloads\HealthVerse-AI\backend\medicine-service\src\main\java\com\healthverse\medicine\dto\MedicineRequest.java
+C:\Users\prath\Downloads\HealthVerse-AI\backend\medicine-service\src\main\java\com\healthverse\medicine\dto\MedicineResponse.java
+C:\Users\prath\Downloads\HealthVerse-AI\backend\medicine-service\src\main\java\com\healthverse\medicine\entity\Medicine.java
+C:\Users\prath\Downloads\HealthVerse-AI\backend\medicine-service\src\main\java\com\healthverse\medicine\exception\BadRequestException.java
+C:\Users\prath\Downloads\HealthVerse-AI\backend\medicine-service\src\main\java\com\healthverse\medicine\exception\GlobalExceptionHandler.java
+C:\Users\prath\Downloads\HealthVerse-AI\backend\medicine-service\src\main\java\com\healthverse\medicine\exception\ResourceNotFoundException.java
+C:\Users\prath\Downloads\HealthVerse-AI\backend\medicine-service\src\main\java\com\healthverse\medicine\MedicineServiceApplication.java
+C:\Users\prath\Downloads\HealthVerse-AI\backend\medicine-service\src\main\java\com\healthverse\medicine\repository\MedicineRepository.java
+C:\Users\prath\Downloads\HealthVerse-AI\backend\medicine-service\src\main\java\com\healthverse\medicine\service\impl\MedicineServiceImpl.java
+C:\Users\prath\Downloads\HealthVerse-AI\backend\medicine-service\src\main\java\com\healthverse\medicine\service\JwtService.java
+C:\Users\prath\Downloads\HealthVerse-AI\backend\medicine-service\src\main\java\com\healthverse\medicine\service\MedicineService.java
